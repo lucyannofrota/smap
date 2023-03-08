@@ -1,0 +1,30 @@
+# List of repositories to use within your workspace
+# See https://github.com/dirk-thomas/vcstool
+
+repositories:
+
+  # smap
+  smap_core:
+    type: git
+    url: https://github.com/lucyannofrota/smap_core.git
+    version: 8838f96
+
+  smap_interfaces:
+    type: git
+    url: https://github.com/lucyannofrota/smap_interfaces.git
+    version: 99d37dd
+
+  smap_classification_wrapper:
+    type: git
+    url: https://github.com/lucyannofrota/smap_classification_wrapper.git
+    version: a42d7ab
+
+  smap_classifiers:
+    type: git
+    url: https://github.com/lucyannofrota/smap_classifiers.git
+    version: 8982e8d
+
+  smap_sampler:
+    type: git
+    url: https://github.com/lucyannofrota/smap_sampler.git
+    version: f3298d2

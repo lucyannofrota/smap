@@ -1,0 +1,19 @@
+[submodule "smap_core"]
+	path = smap_core
+	url = https://github.com/lucyannofrota/smap_core.git
+
+[submodule "smap_interfaces"]
+	path = smap_interfaces
+	url = https://github.com/lucyannofrota/smap_interfaces.git
+
+[submodule "smap_classification_wrapper"]
+	path = smap_classification_wrapper
+	url = https://github.com/lucyannofrota/smap_classification_wrapper.git
+
+[submodule "smap_classifiers"]
+	path = smap_classifiers
+	url = https://github.com/lucyannofrota/smap_classifiers.git
+
+[submodule "smap_sampler"]
+	path = smap_sampler
+	url = https://github.com/lucyannofrota/smap_sampler.git
