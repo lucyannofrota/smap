@@ -10,10 +10,6 @@
 	path = smap_classification_wrapper
 	url = https://github.com/lucyannofrota/smap_classification_wrapper.git
 
-[submodule "smap_classifiers"]
-	path = smap_classifiers
-	url = https://github.com/lucyannofrota/smap_classifiers.git
-
 [submodule "smap_sampler"]
 	path = smap_sampler
 	url = https://github.com/lucyannofrota/smap_sampler.git
