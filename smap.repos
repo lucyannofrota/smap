@@ -19,13 +19,7 @@ repositories:
     url: https://github.com/lucyannofrota/smap_sampler.git
     version: 56be219
 
-  smap_classification_wrapper:
+  smap_perception:
     type: git
-    url: https://github.com/lucyannofrota/smap_classification_wrapper.git
-    version: 0c4c28b
-
-  smap_perception_yolo_v5:
-    type: git
-    url: https://github.com/lucyannofrota/smap_perception_yolo_v5.git
-    version: 1a3a9a0
-
+    url: https://github.com/lucyannofrota/smap_perception.git
+    version: 1fb4055
