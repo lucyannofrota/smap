@@ -6,10 +6,10 @@
 	path = smap_interfaces
 	url = https://github.com/lucyannofrota/smap_interfaces.git
 
-[submodule "smap_classification_wrapper"]
-	path = smap_classification_wrapper
-	url = https://github.com/lucyannofrota/smap_classification_wrapper.git
-
 [submodule "smap_sampler"]
 	path = smap_sampler
 	url = https://github.com/lucyannofrota/smap_sampler.git
+
+[submodule "smap_perception"]
+	path = smap_perception
+	url = https://github.com/lucyannofrota/smap_perception.git
