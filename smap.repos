@@ -7,7 +7,7 @@ repositories:
   smap_core:
     type: git
     url: https://github.com/lucyannofrota/smap_core.git
-    version: 00936d0
+    version: 5174964
 
   smap_interfaces:
     type: git
@@ -22,4 +22,5 @@ repositories:
   smap_perception:
     type: git
     url: https://github.com/lucyannofrota/smap_perception.git
-    version: 1fb4055
+    version: cf4c43d
+
