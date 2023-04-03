@@ -13,3 +13,7 @@
 [submodule "smap_sampler"]
 	path = smap_sampler
 	url = https://github.com/lucyannofrota/smap_sampler.git
+
+[submodule "smap_perception_yolo_v5"]
+	path = smap_sampler
+	url = https://github.com/lucyannofrota/smap_perception_yolo_v5.git

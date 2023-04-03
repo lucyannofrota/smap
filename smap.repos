@@ -7,24 +7,25 @@ repositories:
   smap_core:
     type: git
     url: https://github.com/lucyannofrota/smap_core.git
-    version: 4aa78f5
+    version: 00936d0
 
   smap_interfaces:
     type: git
     url: https://github.com/lucyannofrota/smap_interfaces.git
-    version: 56f80ac
-
-  smap_classification_wrapper:
-    type: git
-    url: https://github.com/lucyannofrota/smap_classification_wrapper.git
-    version: 24377c6
-
-  smap_classifiers:
-    type: git
-    url: https://github.com/lucyannofrota/smap_classifiers.git
-    version: 8fd6dcd
+    version: f13e796
 
   smap_sampler:
     type: git
     url: https://github.com/lucyannofrota/smap_sampler.git
-    version: f8a3abb
+    version: 56be219
+
+  smap_classification_wrapper:
+    type: git
+    url: https://github.com/lucyannofrota/smap_classification_wrapper.git
+    version: 0c4c28b
+
+  smap_perception_yolo_v5:
+    type: git
+    url: https://github.com/lucyannofrota/smap_perception_yolo_v5.git
+    version: 1a3a9a0
+
